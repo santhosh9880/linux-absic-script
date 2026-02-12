@@ -1,1 +1,12 @@
+systemd is the Linux init system that initializes the system, manages services, and handles logging using journalctl.
+
+If you want next:
+
+create your own systemd service
+
+systemd vs init
+
+troubleshoot failed services
+
+systemd interview Q&A:wq
  the developer login cred 
